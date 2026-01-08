@@ -128,5 +128,12 @@ Since the dataset is imported from a CSV file, data types of all columns are fin
 * Writing optimized queries using aggregations and window functions
 
 ---
+## Importance of this project
+
+* Improves decision-making by providing clear insights into sales performance, customer behavior, and revenue trends.
+* Identifies growth opportunities by highlighting top-performing products, categories, customers, and peak sales periods.
+* Enhances profitability analysis by tracking revenue, costs (COGS), and detecting high-value or abnormal transactions.
+
+---
 
 ⭐ If you liked this project, feel free to star the repository!
