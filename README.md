@@ -6,6 +6,14 @@ This project focuses on analyzing retail sales data to uncover insights related 
 
 ---
 
+## Problem Statement
+
+Retail businesses generate large volumes of transactional data daily, but raw data alone does not provide actionable insights. Without proper cleaning, structuring, and analysis, it becomes difficult to understand customer behavior, identify top-performing products, track revenue trends, and measure profitability.
+
+The challenge is to transform raw retail sales data into meaningful insights that can support data-driven decision-making, such as improving sales performance, optimizing inventory, and understanding customer purchasing patterns.
+
+---
+##  Steps performed 
 ##  (1) Data Cleaning
 
 Since the dataset is imported from a CSV file, data types of all columns are finalized to avoid further complications during analysis.
