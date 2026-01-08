@@ -78,21 +78,29 @@ Since the dataset is imported from a CSV file, data types of all columns are fin
 ##  (3) Answering Business Questions
 
 **Q1.** Retrieve all columns for sales made on 2022-11-05
-**Q2.** Retrieve all transactions where:
 
-   * Category is Clothing
-   * Quantity sold is more than 4
-   * Month is November 2022
-**Q3. Calculate total sales for each category
+**Q2.** Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022.
+
+**Q3.** Calculate total sales for each category
+
 **Q4.** Find the average age of customers who purchased items from the *Beauty* category
+
 **Q5.** Find all transactions where total sale is greater than 1000
+
 **Q6.** Find the total number of transactions made by each gender in each category
+
 **Q7.** Calculate the average sale for each month and identify the best-selling month for each year
+
 **Q8.** Find the top 5 customers based on highest total sales
+
 **Q9.** Find the number of unique customers who purchased items from each category
+
 **Q10.** Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)
+
 **Q11.** Find Top 2 Customers per Category
+
 **Q12.** Calculate Month-over-Month (MoM) Sales Growth
+
 **Q13.** Find Running Total per Customer
 
 ---
