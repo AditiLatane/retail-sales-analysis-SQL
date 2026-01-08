@@ -6,7 +6,7 @@ This project focuses on analyzing retail sales data to uncover insights related 
 
 ---
 
-##  (1)Data Cleaning
+##  (1) Data Cleaning
 
 Since the dataset is imported from a CSV file, data types of all columns are finalized to avoid further complications during analysis.
 
@@ -63,15 +63,11 @@ Since the dataset is imported from a CSV file, data types of all columns are fin
 * Top customers
 * Average sales per customer
 
----
-
 ## 8. Profitability Analysis
 
 * Profit per transaction
 * Profit by category
 * Profit by gender
-
----
 
 ## 9. Outlier Detection
 
@@ -79,40 +75,36 @@ Since the dataset is imported from a CSV file, data types of all columns are fin
 
 ---
 
-##  Answering Business Questions
+##  (3) Answering Business Questions
 
-1. Retrieve all columns for sales made on **2022-11-05**
-2. Retrieve all transactions where:
+**Q1.** Retrieve all columns for sales made on 2022-11-05
+**Q2.** Retrieve all transactions where:
 
-   * Category is *Clothing*
+   * Category is Clothing
    * Quantity sold is more than 4
    * Month is November 2022
-3. Calculate total sales (`total_sale`) for each category
-4. Find the average age of customers who purchased items from the *Beauty* category
-5. Find all transactions where `total_sale` is greater than **1000**
-6. Find the total number of transactions (`transaction_id`) made by each gender in each category
-7. Calculate the average sale for each month and identify the **best-selling month** for each year
-8. Find the **top 5 customers** based on highest total sales
-9. Find the number of **unique customers** who purchased items from each category
-10. Create sales shifts and count number of orders:
-
-    * Morning (< 12)
-    * Afternoon (12–17)
-    * Evening (> 17)
-11. Find **Top 2 Customers per Category**
-12. Calculate **Month-over-Month (MoM) Sales Growth**
-13. Find **Running Total per Customer**
+**Q3. Calculate total sales for each category
+**Q4.** Find the average age of customers who purchased items from the *Beauty* category
+**Q5.** Find all transactions where total sale is greater than 1000
+**Q6.** Find the total number of transactions made by each gender in each category
+**Q7.** Calculate the average sale for each month and identify the best-selling month for each year
+**Q8.** Find the top 5 customers based on highest total sales
+**Q9.** Find the number of unique customers who purchased items from each category
+**Q10.** Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)
+**Q11.** Find Top 2 Customers per Category
+**Q12.** Calculate Month-over-Month (MoM) Sales Growth
+**Q13.** Find Running Total per Customer
 
 ---
 
-## 🛠️ Tools & Technologies
+## (4) Tools & Technologies
 
 * MySQL Workbench 
 * CSV Dataset (shape = (2000, 11))
 
 ---
 
-## 📈 Key Learnings
+## (5) Key Learnings
 
 * Practical use of SQL for business-driven analysis
 * Handling real-world retail data
