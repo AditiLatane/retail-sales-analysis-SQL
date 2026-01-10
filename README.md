@@ -87,6 +87,8 @@ Since the dataset is imported from a CSV file, data types of all columns are fin
 
 **Q1.** Retrieve all columns for sales made on 2022-11-05
 
+`SELECT * FROM retail_sales WHERE sale_date = '2022-11-05';`
+
 **Q2.** Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022.
 
 **Q3.** Calculate total sales for each category
