@@ -136,9 +136,9 @@ ORDER BY gender, category;
 ```
 
 **Q7.** Calculate the average sale for each month and identify the best-selling month for each year
-```markdown
+
 Average sale per month
-```
+
 ```sql
 SELECT YEAR(sale_date) AS years,
        MONTH(sale_date) AS months,
@@ -147,9 +147,8 @@ FROM retail_sales
 GROUP BY years, months;
 ```
 
-```markdown
 Best-selling month per year
-```
+
 ```sql
 WITH monthly_sales AS (
     SELECT YEAR(sale_date) AS years,
