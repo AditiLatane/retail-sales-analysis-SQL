@@ -4,6 +4,8 @@
 
 This project focuses on analyzing retail sales data to uncover insights related to sales performance, customer behavior, revenue trends, and profitability. The analysis includes data cleaning, exploratory data analysis (EDA), profitability analysis, and answering real-world business questions using SQL.
 
+[LinkedIn post](https://www.linkedin.com/posts/aditilataneofficial_sql-data-analytics-project-retail-sales-activity-7415019764160630785-GIHj?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEflGrsB8h5z0lgyHs6WNiG6X22jaV4ABKs)
+
 ---
 
 ## Problem Statement
