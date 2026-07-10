@@ -278,3 +278,17 @@ FROM retail_sales;
 ---
 
 ⭐ If you liked this project, feel free to star the repository!
+
+---
+
+## 👩‍💻 Author & Contact
+
+**Aditi Latane**  
+*Aspiring Data Analyst*
+
+Email: aditiplatane@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/aditilataneofficial/)
+
+[Portfolio](https://aditi-latane-data-analyst-portfolio.vercel.app/)
+
